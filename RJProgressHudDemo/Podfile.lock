@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 2ef04b38c9eb3e6e482e1efe9bc91d42d24a75b7
+PODS:
+  - RJProgressHud (0.0.1)
+
+DEPENDENCIES:
+  - RJProgressHud (from `../`)
+
+EXTERNAL SOURCES:
+  RJProgressHud:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RJProgressHud: c620a02f42bc60d21fdb0e878c63f6db4a41e372
+
+PODFILE CHECKSUM: cf555bbb3faa38410eb87da6f6b016ae3f7f5fe0
 
 COCOAPODS: 1.1.1

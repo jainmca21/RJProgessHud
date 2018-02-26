@@ -6,6 +6,6 @@ target 'RJProgressHudDemo' do
   # use_frameworks!
 
   # Pods for RJProgressHudDemo
-  pod 'RJProgessHud',:path=>'../'
+   pod 'RJProgressHud',:path=>'../'
 
 end

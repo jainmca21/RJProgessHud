@@ -41,7 +41,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/jainmca21/RJProgessHud.git" }
 
 
-  # s.source_files  = "Classes/ProgressHud/**/*"
+   s.source_files  = "Classes/**/*"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
